@@ -6,7 +6,7 @@ BoB 10기 B-Beam-BoB 팀프로젝트 중 진행한 리모컨 IR 신호를 캡쳐
 
 원격에서 제어 할 수 있도록 한 서브 프로젝트 입니다!
 
-![좌: 제작한 칩과 동작 모습 / 우: Blynk 제어 어플리케이션](./README_files/demmonstration.png)
+![좌: 제작한 칩과 동작 모습 / 우: Blynk 제어 어플리케이션](./README_files/demonstration.png)
 
 좌: 제작한 칩과 동작 모습 / 우: Blynk 제어 어플리케이션
 
